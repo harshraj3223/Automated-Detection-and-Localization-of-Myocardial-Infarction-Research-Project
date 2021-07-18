@@ -5,4 +5,4 @@ In this project, I have built a deep architecture with One-Dimensional Convoluti
 
 ***" THE OVERALL FINAL ACCURACY OBTAINED = 95.33% "***
 
-Refer to the [Final Research Report](https://github.com/harshraj3223/Automated-Detection-and-Localization-of-Myocardial-Infarction-Research-Project/tree/main/Final%20Research%20Report), where I have written in detail about everything I did in/for this project during the period of my research. The accuracy analysis on each class has been explained there, too!!
+Refer to the [Final Research Report](https://github.com/harshraj3223/Automated-Detection-and-Localization-of-Myocardial-Infarction-Research-Project/tree/main/Final%20Research%20Report), where I have written in detail about everything I did in/for this project during my research period. The accuracy analysis on each class has been explained there, too!!
