@@ -1,0 +1,4 @@
+I also did the same project on the data extracted (from the ptbxl database) using a different approach! This new data with the same previous model (with only 50 epochs this time) 
+gave an accuracy of 95.72%. In this new approach, one ECG record would provide a maximum of only one data instance (or example) this time. Took averages of ST deviations, 
+Q peaks, and T peaks for all the beats of a lead, and the same was done for all the 12 leads of a record. So, we again would get a 36-dimensional feature vector as an instance 
+from one ECG record; only this time, the data would be different. 
