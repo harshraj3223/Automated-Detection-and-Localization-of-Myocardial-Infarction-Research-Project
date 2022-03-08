@@ -5,4 +5,4 @@ For this project, I built a deep architecture consisting one-dimensional Convolu
 
 ***"THE FINAL ACCURACY OBTAINED = 95.33% to 95.72% (depending on the type of data-preprocessing)"***
 
-Refer to the [Final Research Report](https://github.com/harshraj3223/Automated-Detection-and-Localization-of-Myocardial-Infarction-Research-Project/tree/main/Final%20Research%20Report) for profound insights into my research and code-execution.
+Refer to the [Final Research Report](https://github.com/harshraj3223/Automated-Detection-and-Localization-of-Myocardial-Infarction-Research-Project/tree/main/Final%20Research%20Report) for profound insights into my research work and code-execution.
